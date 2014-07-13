@@ -4,7 +4,7 @@
 <center>
 hello world
 <br/>
-<php?
+<?php
 echo "php sushestvuet!<br/>";
 ?>
 </center>
